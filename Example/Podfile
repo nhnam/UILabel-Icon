@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UILabel-Icon_Example' do
+  pod 'UILabel-Icon', :path => '../'
+
+  target 'UILabel-Icon_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
