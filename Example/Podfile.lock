@@ -1,0 +1,16 @@
+PODS:
+  - UILabel-Icon (0.1.0)
+
+DEPENDENCIES:
+  - UILabel-Icon (from `../`)
+
+EXTERNAL SOURCES:
+  UILabel-Icon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UILabel-Icon: d514262bd10bc63db53e8462a5e275775a852809
+
+PODFILE CHECKSUM: c9f8fa2b9d16b1fcac278a6aca4797d44f050ae2
+
+COCOAPODS: 1.0.1

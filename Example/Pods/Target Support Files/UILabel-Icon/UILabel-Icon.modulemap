@@ -1,0 +1,6 @@
+framework module UILabel_Icon {
+  umbrella header "UILabel-Icon-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_UILabel_Icon_Example {
+  umbrella header "Pods-UILabel-Icon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
